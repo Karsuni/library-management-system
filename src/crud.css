@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: yellowgreen;
+    transform: scale();
+    transition: all .3s ease-out;
+}
+id{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    text-indent: 10px;
+}
